@@ -22,6 +22,6 @@ Fork this repository and fill in (either in English, or in Slovak):
 
 **Application description**: Aplikácia zobrazí veľvyslanectvá a konzuláty a označí ich vlajkou príslušnej krajiny. Zároveň na okraji mapy je klikateľný zoznam všetkých veľvyslanectiev v rámci mesta, ktoré je zobrazené. Tiež sú zobrazené vzdialenosti k nim od miesta, na ktorom sa nachádza používateľ.
 
-**Data source**: `www.openstreetmap.org
+**Data source**: www.openstreetmap.org
 
 **Technologies used**: mapbox, postgresql, java
