@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: Aplikácia zobrazí veľvyslanectvá a konzuláty a označí ich vlajkou príslušnej krajiny. Zároveň na okraji mapy je klikateľný zoznam všetkých veľvyslanectiev v rámci mesta, ktoré je zobrazené. Tiež sú zobrazené vzdialenosti k nim od miesta, na ktorom sa nachádza používateľ.
 
-**Data source**: `<fill in>`
+**Data source**: `www.openstreetmap.org
 
-**Technologies used**: `<fill in>`
+**Technologies used**: mapbox, postgresql, java
